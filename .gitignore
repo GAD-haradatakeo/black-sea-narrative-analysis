@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+venv_mac/
+.venv/
+env/
+
+# Embedding caches (large binary files)
+emb_cache/
+emb_cache_inst/
+*.npy
+
+# Raw HTML (excluded for copyright reasons)
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
